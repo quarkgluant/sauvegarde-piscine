@@ -1,5 +1,0 @@
-Credentials cache: API:5A3E9E50-0433-4961-8253-58CF9F155BCC
-        Principal: pcadiot@42.FR
-
-  Issued                Expires               Principal
-Aug 29 17:05:17 2016  Sep  5 17:05:06 2016  krbtgt/42.FR@42.FR
