@@ -1,2 +1,2 @@
 #!/bin/sh
-ldapsearch "uid=pcadiot" dn
+ldapwhoami -Q | cut -d :  -f2-

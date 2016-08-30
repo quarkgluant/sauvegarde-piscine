@@ -1,1 +1,0 @@
-ldapsearch "(&(objectclass=person)(uid=z*))" cn
